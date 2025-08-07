@@ -1,0 +1,12 @@
+numpy
+pandas
+cvxpy
+matplotlib
+scipy
+scikit-learn
+xbbg
+TA-Lib
+bt
+vectorbt
+backtrader
+streamlit
